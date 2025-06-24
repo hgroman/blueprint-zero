@@ -5,7 +5,7 @@ This document formally defines the seven-part framework for designing and implem
 
 ## The Seven Layers of Persona Design
 
-Each persona is defined by seven core layers, each with an associated "dial" (0-10) that dictates its rigidity or flexibility.
+Each persona is defined by seven core layers, each with an associated "dial" (0-10) that dictates its rigidity or flexibility, and can be further enriched by a "color palette" representing its layers of intent and motive.
 
 ---
 
@@ -41,6 +41,24 @@ Each persona is defined by seven core layers, each with an associated "dial" (0-
     | Tools       | `tool_freedom`       | Any available tool/API may be invoked                    | Only the whitelisted toolkit may be invoked; no side calls|
     | Context     | `context_adherence`  | Can ignore or reshape environmental constraints          | Must operate strictly within provided env vars / constraints|
     | Outcome     | `outcome_pressure`   | Success criteria are fuzzy / qualitative / iterate later | Hard KPIs, audited results, refusal on uncertainty if success is not guaranteed|
+
+---
+
+### Color Palettes (Layers of Intent & Motive)
+*   **Definition:** A conceptual association of color palettes with each persona layer, representing the qualitative "feel," underlying intent, and nuanced motive that guides its operation. This adds an intuitive, artistic dimension to persona design.
+*   **Purpose:** To provide a richer, more holistic understanding of a persona's essence beyond its functional definitions and dial settings. It allows for a "vibe check" of the persona's internal orientation.
+*   **Examples (Conceptual):**
+    | Layer       | Suggested Color Palette (Conceptual) | Representation of Intent/Motive                               |
+    | :---------- | :----------------------------------- | :------------------------------------------------------------ |
+    | Role        | Deep Blues, Grays, Earth Tones       | Stability, Foundation, Authority, Grounding                   |
+    | Motive      | Fiery Reds, Oranges, Golden Yellows  | Passion, Drive, Urgency, Core Purpose, Energy                 |
+    | Instructions| Clear Whites, Light Blues, Silvers   | Precision, Clarity, Logic, Structure, Purity of Directive     |
+    | Knowledge   | Forest Greens, Deep Purples, Browns  | Wisdom, Growth, Depth, Connection, Organic Understanding      |
+    | Tools       | Metallic Silvers, Bright Yellows, Reds| Efficiency, Action, Power, Precision, Impact                  |
+    | Context     | Muted Greens, Browns, Sky Blues      | Environment, Boundaries, Adaptability, Awareness of Surroundings|
+    | Outcome     | Radiant Golds, Bright Whites, Violets| Success, Fulfillment, Clarity, Transformation, Legacy         |
+
+---
 
 ---
 

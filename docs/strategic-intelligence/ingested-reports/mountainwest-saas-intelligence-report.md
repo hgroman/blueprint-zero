@@ -49,7 +49,19 @@
 
 ---
 
-## VC Portfolios & Accelerators  
+## Founder & Operator Communities
+
+| Ecosystem | Community (Join Link) | How to Access | Why It Matters |
+|-----------|-----------------------|---------------|----------------|
+| Global / Online | [StartupEvents.org Calendar](https://www.startupevents.org) | Free subscription | Comprehensive listing of virtual and hybrid startup events, including hackathons and founder talks. |
+
+### Key Events & Series
+
+*   **RAISE your HACK:** Hybrid event (Online + In-person in Paris), July 4-9, 2025. Official hackathon of RAISE Summit 2025. Focus on pushing boundaries, solving real-world challenges, and creating impactful solutions. Relevant for identifying innovative founders and potential ScraperSky use cases in hackathon projects.
+
+---
+
+## VC Portfolios & Accelerators
 
 | Investor / Program | Portfolio URL | Relevance |
 |--------------------|--------------|-----------|
@@ -137,7 +149,13 @@
 * MicroConf Connect – <https://microconf.com/connect>  
 * Nathan Barry 2024 Review – <https://nathanbarry.com/2024-review/>  
 * Keap “Conquer the Chaos” Podcast – <https://keap.com/resources/podcasts>  
-* Dave Grow LinkedIn Post – <https://www.linkedin.com/posts/davegrow_oktas-businesses-at-work-2025-report-just-activity-7305598537549942784-eSsM>  
+* Dave Grow LinkedIn Post – <https://www.linkedin.com/posts/davegrow_oktas-businesses-at-work-2025-report-just-activity-7305598537549942784-eSsM>
+* StartupEvents.org – <https://www.startupevents.org>
+* LinkedIn Network & Learn Live Event – <https://startupevents.org/startup-events-calendar/linkedin-network-learn-live-event-ai-startups-career-and-tech-trends>
+* Achieving a $136M Exit Event – <https://startupevents.org/startup-events-calendar/achieving-a-136m-exit-key-lessons-from-scaling-a-security-tech-startup>
+* Raised $70M and Exited Event – <https://startupevents.org/startup-events-calendar/raised-70m-and-exited-why-product-market-fit-outweighs-early-vc-pursuit>
+* Journey of Zvi Schreiber Event – <https://startupevents.org/startup-events-calendar/from-500m-exits-to-transforming-freight-the-journey-of-zvi-schreiber>
+* Employee to Entrepreneur Event – <https://startupevents.org/startup-events-calendar/employee-to-entrepreneur-how-to-make-the-trasition-to-startup-founder>
 
 ---
 

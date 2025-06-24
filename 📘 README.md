@@ -30,8 +30,8 @@ It's a strategic consciousness engine.
 ---
 
 ### 📚 System Docs
-- 📄 [View the current system architecture](docs/blueprint-zero-system-overview.md)
-- 🚀 [Explore the Blueprint Zero v2 Vision](docs/blueprint-zero-v2-vision-spec.md)
+- 📄 [View the current system architecture](docs/system/overview.md)
+- 🚀 [Explore the Blueprint Zero v2 Vision](docs/system/v2-vision-spec.md)
 
 This directory is your command system—the internal architecture of clarity, scale, and truth behind everything you build.
 
@@ -44,13 +44,13 @@ Each file in this directory holds a different strategic altitude. Together, they
 ---
 
 ## 🗂 Table of Contents
-- [🧭 0Z - Zero](#-0z---zero-←-for-principle-posture-and-protection)
-- [❓ Q - Personal Reflection](#-q---blueprint-zero—personal-reflection-←-for-identity)
-- [🛠 Q - Strategic Pillars](#-q---strategic-pillars-←-for-scale-structure-signal)
-- [🚨 Q - Unknown Unknowns](#-q---unknown-unknowns-←-for-external-risk--validation)
-- [🛣️ R - Roadmap](#-r---strategic-intelligence-platform-roadmap)
-- [📊 S - Intelligence Report](#-s---mountainwest_saas_intelligence_report)
-- [🧱 T - Platform Snapshot](#-t---scrapersky-platform-snapshot-←-for-architecture-reality-positioning)
+- [🧭 0Z - Zero](docs/strategic-foundation/principles-posture-protection.md)
+- [❓ Q - Personal Reflection](docs/strategic-foundation/identity-reflection.md)
+- [🛠 Q - Strategic Pillars](docs/strategic-foundation/strategic-pillars.md)
+- [🚨 Q - Unknown Unknowns](docs/strategic-intelligence/external-risks-validation.md)
+- [🛣️ R - Roadmap](docs/strategic-intelligence/roadmap.md)
+- [📊 S - Intelligence Report](docs/strategic-intelligence/ingested-reports/mountainwest-saas-intelligence-report.md)
+- [🧱 T - Platform Snapshot](docs/system/architecture-snapshot.md)
 
 ---
 
